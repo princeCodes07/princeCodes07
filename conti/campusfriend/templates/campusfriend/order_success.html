@@ -1,0 +1,10 @@
+{% extends 'campusfriend/base.html' %}
+
+{% block title %}Order Confirmed{% endblock %}
+
+{% block content %}
+<h1>Thank you for your order!</h1>
+<p>Your order number is <strong>{{ order.id }}</strong>.</p>
+<p>Order total: ${{ order.get_total_cost }}</p>
+<p>We will email the order details to {{ order.email }}.</p>
+{% endblock %}

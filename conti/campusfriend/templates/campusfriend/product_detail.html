@@ -1,0 +1,30 @@
+{% extends 'campusfriend/base.html' %}
+
+{% block title %}{{ product.name }} - Our Store{% endblock %}
+
+{% block content %}
+<div class="product-detail">
+    <div class="product-image">
+        <img src="{{ product.image_url }}" alt="{{ product.name }}">
+    </div>
+    <div class="product-info">
+        <h1>{{ product.name }}</h1>
+        <p class="category">Category: {{ product.category.name }}</p>
+        <p class="price">${{ product.price }}</p>
+        <p class="stock">Stock: {{ product.stock }}</p>
+        <p class="description">{{ product.description }}</p>
+        
+        <div class="actions">
+            <form action="{% url 'add_to_cart' product.id %}" method="post" class="add-to-cart-form">
+                {% csrf_token %}
+                <label for="id_quantity">Quantity:</label>
+                {{ form.quantity }}
+                <button type="submit" class="btn btn-primary">Add to Cart</button>
+            </form>
+            <form action="{% url 'order_create' product.id %}" method="get" class="buy-now-form">
+                <button type="submit" class="btn btn-secondary">Buy Now</button>
+            </form>
+        </div>
+    </div>
+</div>
+{% endblock %}

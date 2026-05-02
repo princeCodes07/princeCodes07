@@ -1,0 +1,15 @@
+{% extends 'campusfriend/base.html' %}
+
+{% block title %}Buy {{ product.name }}{% endblock %}
+
+{% block content %}
+<h1>Buy {{ product.name }}</h1>
+<p>Price: ${{ product.price }}</p>
+<p>Stock: {{ product.stock }}</p>
+
+<form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Place Order</button>
+</form>
+{% endblock %}
