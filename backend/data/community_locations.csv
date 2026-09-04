@@ -1,0 +1,66 @@
+community_slug,town,latitude,longitude,timezone,geocoding_source,review_status
+abeka,Abeka,5.596550,-0.244800,Africa/Accra,open-meteo,approved
+abokobi,Abokobi,5.734100,-0.206250,Africa/Accra,open-meteo,approved
+abossey-okai,Abossey Okai,5.559860,-0.237150,Africa/Accra,open-meteo,approved
+accra-new-town,Accra New Town,5.582250,-0.210400,Africa/Accra,open-meteo,approved
+achimota,Achimota,5.616670,-0.233330,Africa/Accra,open-meteo,approved
+ada,Ada,5.774160,0.633770,Africa/Accra,open-meteo,approved
+adabraka,Adabraka,5.559850,-0.212700,Africa/Accra,open-meteo,approved
+adenta,Adenta,5.714170,-0.154180,Africa/Accra,open-meteo,approved
+afienya,Afienya,5.801560,0.005550,Africa/Accra,open-meteo,approved
+afuaman,Afuaman,5.634690,-0.355330,Africa/Accra,open-meteo,approved
+agbogba,Agbogba,5.691630,-0.199970,Africa/Accra,open-meteo,approved
+akweteyman,Akweteyman,5.611000,-0.250810,Africa/Accra,open-meteo,approved
+alajo,Alajo,5.595610,-0.217910,Africa/Accra,open-meteo,approved
+amasaman,Amasaman,5.707110,-0.301550,Africa/Accra,open-meteo,approved
+anyaa,Anyaa,5.600490,-0.296100,Africa/Accra,open-meteo,approved
+ashongman,Ashongman,5.710500,-0.233590,Africa/Accra,open-meteo,approved
+asylum-down,Asylum Down,5.566840,-0.207230,Africa/Accra,open-meteo,approved
+big-ada,Big Ada,5.823240,0.614280,Africa/Accra,open-meteo,approved
+boi,Boi,5.722510,-0.216470,Africa/Accra,open-meteo,approved
+burma-camp,Burma Camp,5.596420,-0.154960,Africa/Accra,open-meteo,approved
+cantonments,Cantonments,5.581230,-0.175720,Africa/Accra,open-meteo,approved
+chorkor,Chorkor,5.526910,-0.242150,Africa/Accra,open-meteo,approved
+christian-village,Christian Village,5.631730,-0.221540,Africa/Accra,open-meteo,approved
+community-9,Community 9,5.677480,-0.018480,Africa/Accra,open-meteo,approved
+dansoman,Dansoman,5.555060,-0.272480,Africa/Accra,open-meteo,approved
+darkuman,Darkuman,5.591720,-0.252370,Africa/Accra,open-meteo,approved
+dodowa,Dodowa,5.881140,-0.098730,Africa/Accra,open-meteo,approved
+dome,Dome,5.650030,-0.236100,Africa/Accra,open-meteo,approved
+domeabra,Domeabra,5.599340,-0.390020,Africa/Accra,open-meteo,approved
+gbawe,Gbawe,5.576920,-0.310380,Africa/Accra,open-meteo,approved
+greda-estate,Greda Estate,5.612300,-0.105640,Africa/Accra,open-meteo,approved
+kaneshie,Kaneshie,5.571690,-0.237610,Africa/Accra,open-meteo,approved
+katamanso,Katamanso,5.747850,-0.081020,Africa/Accra,open-meteo,approved
+kokomlemle,Kokomlemle,5.575600,-0.205600,Africa/Accra,open-meteo,approved
+kokroko,Kokroko,5.577350,-0.283710,Africa/Accra,open-meteo,approved
+korle-gonno,Korle Gonno,5.532700,-0.226680,Africa/Accra,open-meteo,approved
+korle-lagoon-area,Korle Lagoon area,5.550730,-0.233000,Africa/Accra,open-meteo,approved
+kpone,Kpone,5.688210,0.056220,Africa/Accra,open-meteo,approved
+kwabenya,Kwabenya,5.696940,-0.251390,Africa/Accra,open-meteo,approved
+lapaz,Lapaz,5.607870,-0.248460,Africa/Accra,open-meteo,approved
+lashibi,Lashibi,5.684760,-0.040110,Africa/Accra,open-meteo,approved
+lolonya,Lolonya,5.791610,0.433140,Africa/Accra,open-meteo,approved
+mallam,Mallam,5.571180,-0.292770,Africa/Accra,open-meteo,approved
+mamobi,Mamobi,5.595430,-0.195290,Africa/Accra,open-meteo,approved
+mamprobi,Mamprobi,5.536540,-0.241830,Africa/Accra,open-meteo,approved
+manhean,Manhean,5.643860,-0.345590,Africa/Accra,open-meteo,approved
+mataheko,Mataheko,5.564220,-0.250020,Africa/Accra,open-meteo,approved
+new-achimota,New Achimota,5.626570,-0.258070,Africa/Accra,open-meteo,approved
+nima,Nima,5.581320,-0.198160,Africa/Accra,open-meteo,approved
+north-ridge,North Ridge,5.566110,-0.191040,Africa/Accra,open-meteo,approved
+nungua,Nungua,5.601050,-0.077130,Africa/Accra,open-meteo,approved
+oblogo,Oblogo,5.559970,-0.312220,Africa/Accra,open-meteo,approved
+odorkor,Odorkor,5.579030,-0.261230,Africa/Accra,open-meteo,approved
+ofankor,Ofankor,5.655960,-0.269210,Africa/Accra,open-meteo,approved
+old-ningo,Old Ningo,5.746120,0.185650,Africa/Accra,open-meteo,approved
+osudoku,Osudoku,6.027000,0.179640,Africa/Accra,open-meteo,approved
+pokuase,Pokuase,5.690760,-0.283390,Africa/Accra,open-meteo,approved
+prampram,Prampram,5.715150,0.104940,Africa/Accra,open-meteo,approved
+sakaman,Sakaman,5.566990,-0.274460,Africa/Accra,open-meteo,approved
+taifa,Taifa,5.658250,-0.252230,Africa/Accra,open-meteo,approved
+tema-new-town,Tema New Town,5.653960,0.026400,Africa/Accra,open-meteo,approved
+tesano,Tesano,5.600770,-0.230100,Africa/Accra,open-meteo,approved
+teshie,Teshie,5.583650,-0.107220,Africa/Accra,open-meteo,approved
+totope,Totope,5.784940,0.526550,Africa/Accra,open-meteo,approved
+zenu,Zenu,5.720060,-0.053160,Africa/Accra,open-meteo,approved

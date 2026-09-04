@@ -1,0 +1,281 @@
+community_slug,town,query,query_variant,query_rank,candidate_rank,candidate_name,latitude,longitude,country,country_code,admin1,admin2,timezone,population,geocoding_id,geocoding_source,auto_match_status,auto_match_reason,review_status
+abeka,Abeka,Abeka,exact,1,1,Abeka,5.242060,-0.985770,Ghana,GH,Central Region,Ekumfi,Africa/Accra,,2306416,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+abeka,Abeka,Abeka,exact,1,2,Abaka,5.303050,-1.176980,Ghana,GH,Central Region,Abura/Asebu/Kwamankese,Africa/Accra,,2306460,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+abeka,Abeka,Abeka,exact,1,3,Abeka,5.596550,-0.244800,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,2306415,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+abeka,Abeka,Abeka,exact,1,4,Kwami Chwika,5.366670,-0.983330,Ghana,GH,Central Region,Ajumako/Enyan/Essiam,Africa/Accra,,2298659,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+abelemkpe,Abelemkpe,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+ablekuma,Ablekuma,Ablekuma,exact,1,1,Ablekuma,5.627840,-0.311160,Ghana,GH,Greater Accra Region,Ga West,Africa/Accra,,2306196,open-meteo,manual_review,Multiple distinct Ghana geocoding results matched the town name.,manual_review
+ablekuma,Ablekuma,Ablekuma,exact,1,2,Ablekuma,5.633330,-0.100000,Ghana,GH,Greater Accra Region,Ledzekuku-Krowor,Africa/Accra,,2306359,open-meteo,manual_review,Multiple distinct Ghana geocoding results matched the town name.,manual_review
+ablor-adjei,Ablor Adjei,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+abokobi,Abokobi,Abokobi,exact,1,1,Abokobi,5.734100,-0.206250,Ghana,GH,Greater Accra Region,Ga East,Africa/Accra,,2306267,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+abokobi-road-area,Abokobi Road area,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+abossey-okai,Abossey Okai,Abossey Okai,exact,1,1,Abossey Okai,5.559860,-0.237150,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,7281067,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+accra-central-business-district,Accra Central Business District,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+accra-new-town,Accra New Town,Accra New Town,exact,1,1,Accra New Town,5.582250,-0.210400,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,8541921,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+accra-kasoa-road,Accra–Kasoa Road,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+accra-kasoa-stretch,Accra–Kasoa stretch,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+accra-nsawam-stretch,Accra–Nsawam stretch,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+achimota,Achimota,Achimota,exact,1,1,Achimota,5.616670,-0.233330,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,2306046,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+achimota,Achimota,Achimota,exact,1,2,Achimota Forest,5.618360,-0.215200,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,8541922,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+ada,Ada,Ada,exact,1,1,Ada,7.250000,-1.833330,Ghana,GH,Ahafo,Tano South,Africa/Accra,,2306015,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+ada,Ada,Ada,exact,1,2,Ada,6.299900,0.867530,Ghana,GH,Volta Region,Akatsi District,Africa/Accra,,2306016,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+ada,Ada,Ada,exact,1,3,Ada,5.786330,-2.164720,Ghana,GH,Western Region,Wassa Amenfi East,Africa/Accra,,2306018,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+ada,Ada,Ada,exact,1,4,Ada,5.774160,0.633770,Ghana,GH,Greater Accra Region,,Africa/Accra,,2306019,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+ada,Ada,Ada,exact,1,5,Ada,5.359250,-0.839630,Ghana,GH,Central Region,Gomoa West,Africa/Accra,,2306020,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+ada-foah,Ada Foah,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+adabraka,Adabraka,Adabraka,exact,1,1,Adabraka,5.559850,-0.212700,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,2303722,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+adenta,Adenta,Adenta,exact,1,1,Adenta,5.714170,-0.154180,Ghana,GH,Greater Accra Region,Adenta,Africa/Accra,50652,7648641,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+adenta,Adenta,Adenta,exact,1,2,Adentan,5.699460,-0.166470,Ghana,GH,Greater Accra Region,Adenta,Africa/Accra,,2305907,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+adjei-kojo,Adjei Kojo,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+afienya,Afienya,Afienya,exact,1,1,Afienya,5.801560,0.005550,Ghana,GH,Greater Accra Region,Shai Osudoku District,Africa/Accra,,2305683,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+afuaman,Afuaman,Afuaman,exact,1,1,Afuaman,5.634690,-0.355330,Ghana,GH,Greater Accra Region,Ga West,Africa/Accra,,2305639,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+agbogba,Agbogba,Agbogba,exact,1,1,Agbogba,5.691630,-0.199970,Ghana,GH,Greater Accra Region,Ga East,Africa/Accra,,2305577,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+agbogbloshie,Agbogbloshie,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+airport-kotoka-area,Airport (Kotoka area),,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+airport-hills,Airport Hills,Airport Hills,exact,1,1,Airport Hills Residential Area,5.617100,-0.141480,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,8456991,open-meteo,manual_review,No unambiguous exact Ghana geocoding match was found.,manual_review
+airport-hills,Airport Hills,"Airport Hills, Greater Accra",greater_accra,2,1,Airport Hills Residential Area,5.617100,-0.141480,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,8456991,open-meteo,manual_review,No unambiguous exact Ghana geocoding match was found.,manual_review
+airport-residential,Airport Residential,Airport Residential,exact,1,1,Airport Residential Area,5.606440,-0.183670,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,8456982,open-meteo,manual_review,No unambiguous exact Ghana geocoding match was found.,manual_review
+airport-residential,Airport Residential,"Airport Residential, Greater Accra",greater_accra,2,1,Airport Residential Area,5.606440,-0.183670,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,8456982,open-meteo,manual_review,No unambiguous exact Ghana geocoding match was found.,manual_review
+akorli-down,Akorli Down,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+akrade-border,Akrade (border),,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+akweteyman,Akweteyman,Akweteyman,exact,1,1,Akweteyman,5.611000,-0.250810,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,2304359,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+alajo,Alajo,Alajo,exact,1,1,Alajo,5.595610,-0.217910,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,2304908,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+alajo-eastern-sections,Alajo (eastern sections),,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+amasaman,Amasaman,Amasaman,exact,1,1,Amasaman,5.707110,-0.301550,Ghana,GH,Greater Accra Region,Ga West,Africa/Accra,,2304810,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+amasaman-border,Amasaman (border),,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+amasaman-road-area,Amasaman Road area,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+anyaa,Anyaa,Anyaa,exact,1,1,Anyaa,5.600490,-0.296100,Ghana,GH,Greater Accra Region,Ga South,Africa/Accra,,11204606,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+anyaa,Anyaa,Anyaa,exact,1,2,Anyaame,4.900460,-2.089180,Ghana,GH,Western Region,Ahanta West,Africa/Accra,,11718085,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+apenkwa,Apenkwa,Apenkwa,exact,1,1,Apenkwa,5.720060,-0.148550,Ghana,GH,Greater Accra Region,Adenta,Africa/Accra,,2304358,open-meteo,manual_review,Multiple distinct Ghana geocoding results matched the town name.,manual_review
+apenkwa,Apenkwa,Apenkwa,exact,1,2,Apenkwa,5.606880,-0.239080,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,8469581,open-meteo,manual_review,Multiple distinct Ghana geocoding results matched the town name.,manual_review
+ashaiman-main-town,Ashaiman (main town),,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+ashaiman-underbridge,Ashaiman Underbridge,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+ashalaja,Ashalaja,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+ashongman,Ashongman,Ashongman,exact,1,1,Ashongman,5.710500,-0.233590,Ghana,GH,Greater Accra Region,Ga East,Africa/Accra,,11497784,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+asutuare-border,Asutuare (border),,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+asylum-down,Asylum Down,Asylum Down,exact,1,1,Asylum Down,5.566840,-0.207230,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,8456977,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+atico,Atico,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+atomic-madina,Atomic Madina,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+atomic-roundabout,Atomic Roundabout,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+avenor,Avenor,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+awudome,Awudome,Awudome,exact,1,1,Awudome Estate,5.568340,-0.226860,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,8457207,open-meteo,manual_review,No unambiguous exact Ghana geocoding match was found.,manual_review
+awudome,Awudome,"Awudome, Greater Accra",greater_accra,2,1,Awudome Estate,5.568340,-0.226860,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,8457207,open-meteo,manual_review,No unambiguous exact Ghana geocoding match was found.,manual_review
+awoshie,awoshie,awoshie,exact,1,1,Awoshi,5.583850,-0.277870,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,32426,8457205,open-meteo,manual_review,No unambiguous exact Ghana geocoding match was found.,manual_review
+awoshie,awoshie,"awoshie, Greater Accra",greater_accra,2,1,Awoshi,5.583850,-0.277870,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,32426,8457205,open-meteo,manual_review,No unambiguous exact Ghana geocoding match was found.,manual_review
+ayawaso,Ayawaso,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+ayi-mensa,Ayi Mensa,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+azizakpe-island,Azizakpe Island,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+baah-yard,Baah Yard,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+baatsona,Baatsona,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+baba-yara-area,Baba Yara area,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+bansa,Bansa,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+bel-aqua,Bel Aqua,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+berlin-bridge-nima,Berlin Bridge (Nima),,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+big-ada,Big Ada,Big Ada,exact,1,1,Big Ada,5.823240,0.614280,Ghana,GH,Greater Accra Region,Ada East,Africa/Accra,,2303041,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+boi,Boi,Boi,exact,1,1,Boi,5.722510,-0.216470,Ghana,GH,Greater Accra Region,Ga East,Africa/Accra,,2302873,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+boi,Boi,Boi,exact,1,2,Boiya,6.791290,-1.345260,Ghana,GH,Ashanti Region,Sekyere East,Africa/Accra,,2302861,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+boi,Boi,Boi,exact,1,3,Boifi,5.659890,-0.817960,Ghana,GH,Central Region,Agona West,Africa/Accra,,2302870,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+boi,Boi,Boi,exact,1,4,Boifi,5.666670,-0.800000,Ghana,GH,Central Region,Agona West,Africa/Accra,,2302871,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+boi,Boi,Boi,exact,1,5,Boifi,5.534300,-0.766620,Ghana,GH,Central Region,Agona West,Africa/Accra,,2302872,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+borteyman,Borteyman,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+bukom,Bukom,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+burma-camp,Burma Camp,Burma Camp,exact,1,1,Burma Camp,5.596420,-0.154960,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,2302401,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+cantonments,Cantonments,Cantonments,exact,1,1,Cantonments,5.581230,-0.175720,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,8456967,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+choice,Choice,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+chorkor,Chorkor,Chorkor,exact,1,1,Chorkor,5.526910,-0.242150,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,8457027,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+christian-village,Christian Village,Christian Village,exact,1,1,Christian Village,5.631730,-0.221540,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,2302148,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+christian-village-drain,Christian Village drain,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+community-1-harbour-industrial,Community 1 (Harbour/Industrial),,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+community-10,Community 10,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+community-11,Community 11,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+community-12,Community 12,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+community-14,Community 14,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+community-18,Community 18,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+community-19,Community 19,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+community-2,Community 2,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+community-20,Community 20,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+community-22,Community 22,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+community-22-shared-border,Community 22 (shared border),,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+community-25-parts,Community 25 (parts),,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+community-3,Community 3,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+community-4,Community 4,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+community-5,Community 5,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+community-6,Community 6,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+community-7,Community 7,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+community-8,Community 8,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+community-9,Community 9,Community 9,exact,1,1,Community 9,5.677480,-0.018480,Ghana,GH,Greater Accra Region,Tema Metropolitan District,Africa/Accra,,11397282,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+d-k-poison-alajo,D.K. Poison (Alajo),,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+dakyibi-river-catchment,Dakyibi River catchment,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+dansoman,Dansoman,Dansoman,exact,1,1,Dansoman,5.555060,-0.272480,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,2300038,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+dansoman-junction,Dansoman Junction,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+darkuman,Darkuman,Darkuman,exact,1,1,Darkuman,5.591720,-0.252370,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,8457011,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+darkuman-junction,Darkuman Junction,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+dawhenya,Dawhenya,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+dodowa,Dodowa,Dodowa,exact,1,1,Dodowa,5.881140,-0.098730,Ghana,GH,Greater Accra Region,Shai Osudoku District,Africa/Accra,,2301665,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+dodowa,Dodowa,Dodowa,exact,1,2,Dodowa Anwiam,6.574420,-2.429580,Ghana,GH,Ahafo,Asunafo South,Africa/Accra,,12107197,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+dodowa,Dodowa,Dodowa,exact,1,3,Dodowa Nkwanta,6.672330,-2.318030,Ghana,GH,Ashanti Region,Atwima Mponua,Africa/Accra,,12093866,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+dome,Dome,Dome,exact,1,1,Dome,5.650030,-0.236100,Ghana,GH,Greater Accra Region,Ga East,Africa/Accra,48285,2301639,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+dome,Dome,Dome,exact,1,2,Domi,7.049110,-1.491880,Ghana,GH,Ashanti Region,Sekyere South,Africa/Accra,,2301613,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+dome,Dome,Dome,exact,1,3,Domi,6.018280,-0.530100,Ghana,GH,Eastern Region,Ayensuano,Africa/Accra,,2301618,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+dome,Dome,Dome,exact,1,4,Dome,6.621270,0.442590,Ghana,GH,Volta Region,Ho,Africa/Accra,,2301634,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+dome,Dome,Dome,exact,1,5,Dome,6.600000,0.466670,Ghana,GH,Volta Region,Ho,Africa/Accra,,2301635,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+dome-eastern-parts,Dome (eastern parts),,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+dome-crossing,Dome crossing,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+domeabra,Domeabra,Domeabra,exact,1,1,Domeabra,8.066600,-1.768730,Ghana,GH,Bono East,Kintampo North Municipal District,Africa/Accra,,2301572,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+domeabra,Domeabra,Domeabra,exact,1,2,Domeabra,7.055600,-1.933830,Ghana,GH,Ashanti Region,Ahafo Ano South,Africa/Accra,,2301574,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+domeabra,Domeabra,Domeabra,exact,1,3,Domeabra,6.934210,-1.556900,Ghana,GH,Ashanti Region,Sekyere South,Africa/Accra,,2301575,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+domeabra,Domeabra,Domeabra,exact,1,4,Dameabra,6.868260,-2.053460,Ghana,GH,Ashanti Region,Ahafo Ano South,Africa/Accra,,2301576,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+domeabra,Domeabra,Domeabra,exact,1,5,Domeabra,6.679790,-1.511980,Ghana,GH,Ashanti Region,Kumasi,Africa/Accra,,2301581,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+domeabra,Domeabra,"Domeabra, Greater Accra",greater_accra,2,1,Domeabra,5.599340,-0.390020,Ghana,GH,Greater Accra Region,Ga South,Africa/Accra,,2301599,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+doryumu,Doryumu,Doryumu,exact,1,1,Doyum,5.900550,0.021840,Ghana,GH,Greater Accra Region,Shai Osudoku District,Africa/Accra,,2301512,open-meteo,manual_review,No unambiguous exact Ghana geocoding match was found.,manual_review
+doryumu,Doryumu,"Doryumu, Greater Accra",greater_accra,2,1,Doyum,5.900550,0.021840,Ghana,GH,Greater Accra Region,Shai Osudoku District,Africa/Accra,,2301512,open-meteo,manual_review,No unambiguous exact Ghana geocoding match was found.,manual_review
+dzorwulu,Dzorwulu,Dzorwulu,exact,1,1,Dzorwulu Residential Area,5.611460,-0.204980,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,8456983,open-meteo,manual_review,No unambiguous exact Ghana geocoding match was found.,manual_review
+dzorwulu,Dzorwulu,"Dzorwulu, Greater Accra",greater_accra,2,1,Dzorwulu Residential Area,5.611460,-0.204980,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,8456983,open-meteo,manual_review,No unambiguous exact Ghana geocoding match was found.,manual_review
+east-cantonments,East Cantonments,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+east-legon,East Legon,East Legon,exact,1,1,East Legon Residential Area,5.632850,-0.164730,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,8541925,open-meteo,manual_review,No unambiguous exact Ghana geocoding match was found.,manual_review
+east-legon,East Legon,"East Legon, Greater Accra",greater_accra,2,1,East Legon Residential Area,5.632850,-0.164730,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,8541925,open-meteo,manual_review,No unambiguous exact Ghana geocoding match was found.,manual_review
+fiesta-royale-area,Fiesta Royale area,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+fishing-harbour-area,Fishing Harbour area,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+frafraha,Frafraha,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+ga-mashie,Ga Mashie,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+gaec-road-area,GAEC Road area,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+gbawe,Gbawe,Gbawe,exact,1,1,Gbawe,5.576920,-0.310380,Ghana,GH,Greater Accra Region,Ga South,Africa/Accra,86718,2300721,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+glefe,Glefe,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+graphic-road,Graphic Road,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+graphic-road-area,Graphic Road area,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+greda-estate,Greda Estate,Greda Estate,exact,1,1,Greda Estate,5.612300,-0.105640,Ghana,GH,Greater Accra Region,Ledzekuku-Krowor,Africa/Accra,,11054695,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+greda-estate,Greda Estate,Greda Estate,exact,1,2,Greda Estates,5.619830,-0.092870,Ghana,GH,Greater Accra Region,Ledzekuku-Krowor,Africa/Accra,,8456999,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+hajj-village,Hajj Village,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+hatatso,Hatatso,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+james-town,James Town,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+jelil-estate-junction,Jelil Estate Junction,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+kanda,Kanda,Kanda,exact,1,1,Kanda Estate,5.578880,-0.187910,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,8456978,open-meteo,manual_review,No unambiguous exact Ghana geocoding match was found.,manual_review
+kanda,Kanda,"Kanda, Greater Accra",greater_accra,2,1,Kanda Estate,5.578880,-0.187910,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,8456978,open-meteo,manual_review,No unambiguous exact Ghana geocoding match was found.,manual_review
+kaneshie,Kaneshie,Kaneshie,exact,1,1,Kaneshie,5.571690,-0.237610,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,8457206,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+kaneshie-first-light,Kaneshie (First Light),,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+kanewu-kanele,Kanewu / Kanele,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+kasoa,Kasoa,Kasoa,exact,1,1,Kasoa,5.534490,-0.416790,Ghana,GH,Central Region,Awutu Senya East Municipal,Africa/Accra,86753,2296458,open-meteo,manual_review,No unambiguous exact Ghana geocoding match was found.,manual_review
+kasoa-scc-side,Kasoa (SCC side),,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+kasoa-old-barrier,Kasoa Old Barrier,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+kasseh,Kasseh,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+kasseh-junction,Kasseh Junction,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+katamanso,Katamanso,Katamanso,exact,1,1,Katamanso,5.747850,-0.081020,Ghana,GH,Greater Accra Region,Tema Metropolitan District,Africa/Accra,,2299736,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+katamanso-ashaiman-stretch,Katamanso–Ashaiman stretch,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+klagon,Klagon,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+kokomlemle,Kokomlemle,Kokomlemle,exact,1,1,Kokomlemle,5.575600,-0.205600,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,2299465,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+kokomlemle-parts,Kokomlemle (parts),,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+kokroko,Kokroko,Kokroko,exact,1,1,Kokroko,5.577350,-0.283710,Ghana,GH,Greater Accra Region,Ga South,Africa/Accra,,11675664,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+kokroko,Kokroko,Kokroko,exact,1,2,Kokroko,7.684930,-2.042020,Ghana,GH,Bono East,Techiman Municipal District,Africa/Accra,,12105805,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+korle-gonno,Korle Gonno,Korle Gonno,exact,1,1,Korle Gonno,5.532700,-0.226680,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,7281069,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+korle-lagoon-area,Korle Lagoon area,Korle Lagoon area,exact,1,1,Korle Lagoon Area,5.550730,-0.233000,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,8457025,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+kpone,Kpone,Kpone,exact,1,1,Kpone,5.688210,0.056220,Ghana,GH,Greater Accra Region,Tema Metropolitan District,Africa/Accra,,2299145,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+kpone,Kpone,Kpone,exact,1,2,Bawalishi,5.854930,-0.107960,Ghana,GH,Greater Accra Region,Tema Metropolitan District,Africa/Accra,,2303305,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+kpone-industrial-area,Kpone Industrial Area,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+kwabenya,Kwabenya,Kwabenya,exact,1,1,Kwabenya,5.696940,-0.251390,Ghana,GH,Greater Accra Region,Ga East,Africa/Accra,,11428094,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+kwabenya,Kwabenya,Kwabenya,exact,1,2,Kwabenyan,5.688220,-0.245180,Ghana,GH,Greater Accra Region,Ga East,Africa/Accra,,2298742,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+kwabenya-parts,Kwabenya (parts),,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+kwashieman,Kwashieman,Kwashieman,exact,1,1,Kwasiman,5.593280,-0.268190,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,2298592,open-meteo,manual_review,No unambiguous exact Ghana geocoding match was found.,manual_review
+kwashieman,Kwashieman,"Kwashieman, Greater Accra",greater_accra,2,1,Kwasiman,5.593280,-0.268190,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,2298592,open-meteo,manual_review,No unambiguous exact Ghana geocoding match was found.,manual_review
+la-labadi,La (Labadi),,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+labone,Labone,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+lakeside,Lakeside,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+lakeside-adenta,Lakeside (Adenta),,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+lapaz,Lapaz,Lapaz,exact,1,1,Lapaz,5.607870,-0.248460,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,2302320,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+lashibi,Lashibi,Lashibi,exact,1,1,Lashibi,5.684760,-0.040110,Ghana,GH,Greater Accra Region,Ashaiman,Africa/Accra,49223,11428216,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+lebanon,Lebanon,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+lebanon-shared,Lebanon (shared),,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+legon-gimpa-bypass,Legon–GIMPA Bypass,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+lister-area,Lister area,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+lolonya,Lolonya,Lolonya,exact,1,1,Lolonya,5.791610,0.433140,Ghana,GH,Greater Accra Region,Ada West,Africa/Accra,,2298385,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+maamobi,Maamobi,Maamobi,exact,1,1,Mamobi,5.595430,-0.195290,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,2298282,open-meteo,manual_review,No unambiguous exact Ghana geocoding match was found.,manual_review
+maamobi,Maamobi,"Maamobi, Greater Accra",greater_accra,2,1,Mamobi,5.595430,-0.195290,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,2298282,open-meteo,manual_review,No unambiguous exact Ghana geocoding match was found.,manual_review
+madina,Madina,Madina,exact,1,1,Medina Estates,5.665800,-0.163070,Ghana,GH,Greater Accra Region,Ga East,Africa/Accra,101207,2298330,open-meteo,manual_review,No unambiguous exact Ghana geocoding match was found.,manual_review
+madina,Madina,Madina,exact,1,2,Madina,10.859800,-2.034020,Ghana,GH,Upper West Region,Sissala West,Africa/Accra,,12087321,open-meteo,manual_review,No unambiguous exact Ghana geocoding match was found.,manual_review
+madina,Madina,"Madina, Greater Accra",greater_accra,2,1,Medina Estates,5.665800,-0.163070,Ghana,GH,Greater Accra Region,Ga East,Africa/Accra,101207,2298330,open-meteo,manual_review,No unambiguous exact Ghana geocoding match was found.,manual_review
+mallam,Mallam,Mallam,exact,1,1,Mallam,5.571180,-0.292770,Ghana,GH,Greater Accra Region,Ga South,Africa/Accra,,8198918,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+mallam-junction,Mallam Junction,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+mamobi,Mamobi,Mamobi,exact,1,1,Mamobi,5.595430,-0.195290,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,2298282,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+mamprobi,Mamprobi,Mamprobi,exact,1,1,Mamprobi,5.536540,-0.241830,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,7281070,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+manet,Manet,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+manhean,Manhean,Manhean,exact,1,1,Manhean,5.643860,-0.345590,Ghana,GH,Greater Accra Region,Ga West,Africa/Accra,,2298219,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+mataheko,Mataheko,Mataheko,exact,1,1,Mataheko,5.564220,-0.250020,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,7281066,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+medie,Medie,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+medie-border,Medie (border),,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+michel-camp-area,Michel Camp area,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+new-achimota,New Achimota,New Achimota,exact,1,1,New Achimota,5.626570,-0.258070,Ghana,GH,Greater Accra Region,Ga West,Africa/Accra,37116,8541923,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+new-ningo,New Ningo,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+nima,Nima,Nima,exact,1,1,Nima,5.581320,-0.198160,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,2297380,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+nima,Nima,Nima,exact,1,2,Nimanda,5.900000,-1.250000,Ghana,GH,Central Region,Assin North,Africa/Accra,,2297379,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+nima-downside,Nima Downside,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+north-larbone,North Larbone,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+north-ridge,North Ridge,North Ridge,exact,1,1,North Ridge,5.566110,-0.191040,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,8469578,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+nungua,Nungua,Nungua,exact,1,1,Nungua,5.601050,-0.077130,Ghana,GH,Greater Accra Region,Ledzekuku-Krowor,Africa/Accra,70483,2296969,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+nungua,Nungua,Nungua,exact,1,2,Nungua Old Town,5.587580,-0.078290,Ghana,GH,Greater Accra Region,,Africa/Accra,,8541926,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+oblogo,Oblogo,Oblogo,exact,1,1,Oblogo,5.559970,-0.312220,Ghana,GH,Greater Accra Region,Ga South,Africa/Accra,,2296670,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+odawna,Odawna,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+odorkor,Odorkor,Odorkor,exact,1,1,Odorkor,5.579030,-0.261230,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,11282129,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+ofankor,Ofankor,Ofankor,exact,1,1,Ofankor,5.655960,-0.269210,Ghana,GH,Greater Accra Region,Ga West,Africa/Accra,,2296454,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+ofankor,Ofankor,Ofankor,exact,1,2,Ofankor,5.587900,-0.449870,Ghana,GH,Central Region,Awutu Senya East Municipal,Africa/Accra,,2296459,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+ofankor,Ofankor,Ofankor,exact,1,3,Ofankor,5.650000,-2.666670,Ghana,GH,Western North,Aowin/Suaman,Africa/Accra,,11609802,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+ofankor-barrier,Ofankor Barrier,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+old-barrier,Old Barrier,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+old-barrier-weija-gbawe,Old Barrier (Weija-Gbawe),,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+old-ningo,Old Ningo,Old Ningo,exact,1,1,Old Ningo,5.746120,0.185650,Ghana,GH,Greater Accra Region,Shai Osudoku District,Africa/Accra,,2296338,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+osu-parts,Osu (parts),,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+osudoku,Osudoku,Osudoku,exact,1,1,Osudoku,6.027000,0.179640,Ghana,GH,Greater Accra Region,Shai Osudoku District,Africa/Accra,,2296252,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+oyarifa,Oyarifa,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+pantang,Pantang,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+parakuo,Parakuo,Parakuo,exact,1,1,Parakuo Estates,5.637280,-0.228270,Ghana,GH,Greater Accra Region,Ga East,Africa/Accra,,8456986,open-meteo,manual_review,No unambiguous exact Ghana geocoding match was found.,manual_review
+parakuo,Parakuo,"Parakuo, Greater Accra",greater_accra,2,1,Parakuo Estates,5.637280,-0.228270,Ghana,GH,Greater Accra Region,Ga East,Africa/Accra,,8456986,open-meteo,manual_review,No unambiguous exact Ghana geocoding match was found.,manual_review
+community-25-parts-dup,Community 25 (parts) dup,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+pokuase,Pokuase,Pokuase,exact,1,1,Pokuase,5.690760,-0.283390,Ghana,GH,Greater Accra Region,Ga West,Africa/Accra,,2295911,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+pokuase-northern-parts,Pokuase (northern parts),,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+polo-grounds,Polo Grounds,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+polo-park-alajo,Polo Park (Alajo),,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+prampram,Prampram,Prampram,exact,1,1,Prampram,5.715150,0.104940,Ghana,GH,Greater Accra Region,Shai Osudoku District,Africa/Accra,,2295858,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+prampram-border,Prampram (border),,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+ringway-estates,Ringway Estates,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+roman-ridge,Roman Ridge,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+russia-dansoman,Russia (Dansoman),,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+sahara-dansoman,Sahara (Dansoman),,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+sakaman,Sakaman,Sakaman,exact,1,1,Sakaman,5.566990,-0.274460,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,11675666,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+sakumono-community-13,Sakumono (Community 13),,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+scc-kasoa-scc-highway,SCC / Kasoa–SCC Highway,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+sege,Sege,Sege,exact,1,1,Sege,5.877030,0.359460,Ghana,GH,Greater Accra Region,Ada West,Africa/Accra,,2295471,open-meteo,manual_review,Multiple distinct Ghana geocoding results matched the town name.,manual_review
+sege,Sege,Sege,exact,1,2,Sege,5.850000,0.350000,Ghana,GH,Greater Accra Region,Shai Osudoku District,Africa/Accra,,2295472,open-meteo,manual_review,Multiple distinct Ghana geocoding results matched the town name.,manual_review
+sege,Sege,Sege,exact,1,3,Sege,5.836420,0.367050,Ghana,GH,Greater Accra Region,Ada West,Africa/Accra,,2295473,open-meteo,manual_review,Multiple distinct Ghana geocoding results matched the town name.,manual_review
+sege,Sege,Sege,exact,1,4,Sege,5.816670,0.350000,Ghana,GH,Greater Accra Region,Ada West,Africa/Accra,,2295474,open-meteo,manual_review,Multiple distinct Ghana geocoding results matched the town name.,manual_review
+sege,Sege,Sege,exact,1,5,Segera,7.731950,-2.863940,Ghana,GH,Bono,Jaman South,Africa/Accra,,2293656,open-meteo,manual_review,Multiple distinct Ghana geocoding results matched the town name.,manual_review
+shai-hills,Shai Hills,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+shai-hills-border-area,Shai Hills border area,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+shiashie-ghana-standards-authority-area,Shiashie (Ghana Standards Authority area),,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+south-la,South La,South La,exact,1,1,South La Estate,5.554160,-0.163430,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,8456970,open-meteo,manual_review,No unambiguous exact Ghana geocoding match was found.,manual_review
+south-la,South La,"South La, Greater Accra",greater_accra,2,1,South La Estate,5.554160,-0.163430,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,8456970,open-meteo,manual_review,No unambiguous exact Ghana geocoding match was found.,manual_review
+south-ridge,South Ridge,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+sowutuom,Sowutuom,Sowutuom,exact,1,1,Sotuom,5.617100,-0.273810,Ghana,GH,Greater Accra Region,Ga West,Africa/Accra,,11675663,open-meteo,manual_review,No unambiguous exact Ghana geocoding match was found.,manual_review
+sowutuom,Sowutuom,"Sowutuom, Greater Accra",greater_accra,2,1,Sotuom,5.617100,-0.273810,Ghana,GH,Greater Accra Region,Ga West,Africa/Accra,,11675663,open-meteo,manual_review,No unambiguous exact Ghana geocoding match was found.,manual_review
+spintex-road-corridor,Spintex Road corridor,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+ssnit-flats,SSNIT Flats,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+ssnit-flats-sakumono,SSNIT Flats (Sakumono),,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+sukura,Sukura,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+taifa,Taifa,Taifa,exact,1,1,Taifa,5.658250,-0.252230,Ghana,GH,Greater Accra Region,Ga East,Africa/Accra,42623,12640508,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+tema-beach-road-area,Tema Beach Road area,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+tema-industrial-area-light-and-heavy,Tema Industrial Area (Light & Heavy),,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+tema-motorway-area,Tema Motorway area,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+tema-new-town,Tema New Town,Tema New Town,exact,1,1,Tema New Town,5.653960,0.026400,Ghana,GH,Greater Accra Region,Tema Metropolitan District,Africa/Accra,95837,11205476,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+tema-accra-beach-road,Tema–Accra Beach Road,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+tesano,Tesano,Tesano,exact,1,1,Tesano,5.600770,-0.230100,Ghana,GH,Greater Accra Region,Accra,Africa/Accra,,2294667,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+teshie,Teshie,Teshie,exact,1,1,Teshie,5.583650,-0.107220,Ghana,GH,Greater Accra Region,Ledzekuku-Krowor,Africa/Accra,144013,2294665,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+teshie,Teshie,Teshie,exact,1,2,Teshie Manheam,5.606090,-0.107580,Ghana,GH,Greater Accra Region,Ledzekuku-Krowor,Africa/Accra,,8456997,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+teshie-bush-road,Teshie Bush Road,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+teshie-nungua-estates,Teshie Nungua Estates,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+tetegu,Tetegu,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+totope,Totope,Totope,exact,1,1,Totope,5.784940,0.526550,Ghana,GH,Greater Accra Region,Ada East,Africa/Accra,,2294437,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+tse-addo,Tse Addo,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+ussher-town,Ussher Town,,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+weija,Weija,Weija,exact,1,1,Weidza,5.571840,-0.334630,Ghana,GH,Greater Accra Region,Ga South,Africa/Accra,,2294093,open-meteo,manual_review,No unambiguous exact Ghana geocoding match was found.,manual_review
+weija,Weija,"Weija, Greater Accra",greater_accra,2,1,Weidza,5.571840,-0.334630,Ghana,GH,Greater Accra Region,Ga South,Africa/Accra,,2294093,open-meteo,manual_review,No unambiguous exact Ghana geocoding match was found.,manual_review
+weija-parts,Weija (parts),,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
+zenu,Zenu,Zenu,exact,1,1,Zenu,10.800000,-1.683330,Ghana,GH,Upper West Region,Sissala East,Africa/Accra,,2293659,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,manual_review
+zenu,Zenu,Zenu,exact,1,2,Zenu,5.720060,-0.053160,Ghana,GH,Greater Accra Region,Tema Metropolitan District,Africa/Accra,,2293660,open-meteo,approved,Single unambiguous Ghana geocoding result matched the exact town name.,approved
+zenu-shared,Zenu (shared),,,,,,,,,,,,,,,open-meteo,no_result,Open-Meteo returned no Ghana geocoding candidates for either query.,no_result
