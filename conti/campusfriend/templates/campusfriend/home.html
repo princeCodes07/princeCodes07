@@ -1,0 +1,26 @@
+{% extends 'campusfriend/base.html' %}
+
+{% block title %}Home - Our Store{% endblock %}
+{% block content %}
+<h2>Our Products</h2>
+<div class="product-list">
+{% for product in products %}
+  <div class="product-card">
+    <a href="{% url 'product_detail' product.id %}">
+      <img src="{{ product.image_url }}" alt="{{ product.name }}">
+      <h3>{{ product.name }}</h3>
+    </a>
+    <p class="price">${{ product.price }}</p>
+  </div>
+{% empty %}
+  <div class="product-card">
+    <img src="https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?auto=format&fit=crop&w=600&q=80" alt="Powerbank">
+    <h3>Powerbank</h3>
+    <p class="price">$25.00</p>
+  </div>
+{% endfor %}
+</div>
+{% endblock %}
+
+
+

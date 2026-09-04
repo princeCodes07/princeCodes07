@@ -1,0 +1,36 @@
+{% extends 'campusfriend/base.html' %}
+
+{% block title %}Shopping Cart{% endblock %}
+
+{% block content %}
+<h1>Your Cart</h1>
+
+{% if cart_items %}
+<table>
+    <thead>
+        <tr>
+            <th>Product</th>
+            <th>Quantity</th>
+            <th>Price</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for item in cart_items %}
+        <tr>
+            <td>{{ item.product.name }}</td>
+            <td>{{ item.quantity }}</td>
+            <td>${{ item.price }}</td>
+            <td>${{ item.line_total }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+<p><strong>Cart total:</strong> ${{ total }}</p>
+<p>
+    <a href="{% url 'checkout' %}">Proceed to Checkout</a>
+</p>
+{% else %}
+<p>Your cart is empty.</p>
+{% endif %}
+{% endblock %}
